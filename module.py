@@ -1,6 +1,6 @@
 def ilk_mesaj():
     print("Muhammed Ali Ulker, 211213007")
-    print("donem projesi falan gittikce zor sanirsam yazilimla yeni tanisiyorum, rabbim bana irade versin")
+    print("nefesin esen ruzgarda; saclarin savrulan karda; yerde, gokte, bulutlarda; ararim nazli gulumu.")
 
 
 def is_letter(char):
