@@ -13,6 +13,9 @@ def is_letter(char):
 def kucuk_harf(char):
     return char.lower()
 
+def buyuk_harf(char):
+    return char.upper()
+
 
 def harf_tekrari(text):
     toplam_char = len(text)
