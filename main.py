@@ -10,3 +10,5 @@ if __name__ == '__main__':
 
     print("Dönüştürülmüş metin:")
     print(transformed_text)
+
+    print(module.buyuk_harf("Mecnun olup yürürüm, Ol yâri düşte görürüm, Uyanıp melûl olurum, Gel gör beni aşk neyledi"))
