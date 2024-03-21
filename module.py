@@ -1,5 +1,5 @@
 def ilk_mesaj():
-    print("Muhammed Ali Ulker, 211213007")
+    print("hos geldiniz")
     print("nefesin esen ruzgarda; saclarin savrulan karda; yerde, gokte, bulutlarda; ararim nazli gulumu.")
 
 
